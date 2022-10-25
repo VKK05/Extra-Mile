@@ -41,10 +41,7 @@ for i in res:
     check=ispalindrome(i)
     if check==1:
         count=count+1
-    else:
-        f=divide(i)
-        if f==1:
-            count=count+1
+    
             
         
 
